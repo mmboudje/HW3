@@ -7,4 +7,4 @@ This updated version of TP2 boasts an automated testbed that tests the following
 
 This testbed also has a Javadoc that can be found here: https://drive.google.com/file/d/1PUGkMrwwi0GBsq9mw3dAqcJYovqNeGQ4/view?usp=sharing
 
-Meanwhile, the screencast for this code can be found here: 
+Meanwhile, the screencast for this code can be found here: https://drive.google.com/file/d/16QuD4_VPeJ4XG2phxEenEkhGd48imyrw/view?usp=sharing
